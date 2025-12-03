@@ -1,0 +1,3 @@
+Check list validação do documento de requisitos
+
+https://imasters.com.br/devsecops/utilizacao-de-checklist-para-validacao-de-requisitos-de-software
